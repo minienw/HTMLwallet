@@ -1,5 +1,5 @@
 ﻿# HTMLwallet
-HTML wallet option for connecting to DCC validation services and uploading proof
+HTML wallet option for connecting to DCC validation services and uploading proofin the MinIenW project of drafting an online checkin validation of DCC's/ This version will be superseded by the end of March 2022.
 
 # Usage guide
 # Introduction
